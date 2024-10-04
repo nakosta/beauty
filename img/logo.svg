@@ -1,0 +1,25 @@
+<svg width="80.000000" height="80.000000" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip6_21">
+			<rect id="logo" rx="-0.500000" width="79.000000" height="79.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="logo" rx="-0.500000" width="79.000000" height="79.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip6_21)">
+		<path id="Vector" d="M46.68 35.9L57.22 25.37L61.29 29.45L50.76 39.98L46.68 35.9Z" fill="#F13C6E" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M25.37 57.23L35.9 46.7L39.98 50.78L29.45 61.31L25.37 57.23Z" fill="#F13C6E" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M39.98 29.23L50.51 18.7L54.59 22.78L44.06 33.31L39.98 29.23Z" fill="#F13C6E" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M18.7 50.54L29.23 40.01L33.31 44.08L22.78 54.62L18.7 50.54Z" fill="#F13C6E" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M18.67 29.45L22.75 25.37L33.29 35.9L29.21 39.98L18.67 29.45Z" fill="#F13C6E" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M25.37 22.77L29.45 18.69L39.98 29.23L35.9 33.31L25.37 22.77Z" fill="#F13C6E" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M46.68 44.05L50.75 39.98L61.29 50.51L57.21 54.59L46.68 44.05Z" fill="#F13C6E" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M40.01 50.76L44.09 46.68L54.62 57.21L50.54 61.29L40.01 50.76Z" fill="#F13C6E" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M54.6 65.39L50.53 61.32L40 71.86L29.46 61.32L25.39 65.39L40 80L54.6 65.39Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M18.67 29.46L14.6 25.39L0 40L14.6 54.6L18.67 50.53L8.13 40L18.67 29.46Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M65.39 25.39L61.32 29.46L71.86 40L61.32 50.53L65.39 54.6L80 40L65.39 25.39Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M50.53 18.67L54.6 14.6L40 0L25.39 14.6L29.46 18.67L40 8.13L50.53 18.67Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
